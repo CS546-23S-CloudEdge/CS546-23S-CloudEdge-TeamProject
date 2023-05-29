@@ -57,7 +57,7 @@ $ python inference.py
 5. Download our repository
     
     ```bash
-    $ git clone https://github.com/ultralytics/yolov5  # clone repo
+    $ git clone https://github.com/CS546-23S-CloudEdge/CS546-23S-CloudEdge-TeamProject.git # clone repo
     ```
     
 6. Install libraries using requirement.txt
