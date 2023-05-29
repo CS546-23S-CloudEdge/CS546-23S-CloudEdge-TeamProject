@@ -25,10 +25,10 @@ $ ssh iyohan.iptime.org -p 1024
 
 1. Type password (10241024) and press enter.
 
-### 1-2. Move to YoloV5 directory
+### 1-2. Move to yolov5_cloudedge directory
 
 ```bash
-$ cd /home/iyohan/yolov5_cloudedge/yolov6_openvino_cloudedge
+$ cd /home/iyohan/yolov5_cloudedge
 ```
 
 ### 1-3. Making inference
