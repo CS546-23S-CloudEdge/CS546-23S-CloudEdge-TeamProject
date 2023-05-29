@@ -1,0 +1,17 @@
+# pip install -U -r requirements.txt
+
+# lxml
+# openvino-dev
+# base ----------------------------------------
+Cython
+matplotlib>=3.2.2
+numpy>=1.18.5
+opencv-python==4.2.0
+pillow
+PyYAML==5.3.1
+scipy==1.5.2
+tensorboard>=2.2
+torch>=1.6.0
+torchvision>=0.7.0
+tqdm>=4.41.0
+onnx==1.6.0
